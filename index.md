@@ -15,6 +15,9 @@ Initialized empty Git repository
 
 
 
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
@@ -34,5 +37,6 @@ Initialized empty Git repository
 
 
 description
+
 
 
